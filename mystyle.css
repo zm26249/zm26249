@@ -2,9 +2,7 @@
 h1{color:#F0A050;}
 th.important{color:red;}
 
-table {border-collapse: collapse;｝
-
-table, th, td {border: 1px solid black;}
+th,td { border:dashed thick black;}
 
 th.important {color: red;}
 
